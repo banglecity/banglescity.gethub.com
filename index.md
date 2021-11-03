@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+new oofer period is going on on your website
 
 ```markdown
 Syntax highlighted code block
@@ -18,8 +18,8 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-1. Numbered
-2. List
+1. bancles
+2. wedding bangles
 
 **Bold** and _Italic_ and `Code` text
 
